@@ -1,0 +1,51 @@
+2020-04-18/22:08:19		User Says: 382220
+2020-04-18/22:08:34		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-18/22:13:08		User Says: 382220
+2020-04-18/22:13:20		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-18/22:14:51		User Says: 382220
+2020-04-18/22:15:02		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-18/22:24:52		User Says: 382220
+2020-04-18/22:25:06		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-18/22:28:10		User Says: 382220
+2020-04-18/22:28:21		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-18/22:30:37		User Says: 382220
+2020-04-18/22:31:32		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/11:14:41		User Says: 382220
+2020-04-20/11:15:31		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/11:16:05		User Says: 382220
+2020-04-20/11:16:18		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/21:26:41		User Says: 382220
+2020-04-20/21:28:44		User Says: 382220
+2020-04-20/21:28:54		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/21:33:30		User Says: 382220
+2020-04-20/21:33:41		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/21:55:06		User Says: 382220
+2020-04-20/21:55:17		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-20/22:39:19		User Says: 382220
+2020-04-20/22:40:21		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:04:09		User Says: 382220
+2020-04-21/10:05:20		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:12:19		User Says: 382220
+2020-04-21/10:12:52		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:19:14		User Says: 382220
+2020-04-21/10:20:04		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:27:13		User Says: 382220
+2020-04-21/10:28:05		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:33:18		User Says: 382220
+2020-04-21/10:34:11		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:41:16		User Says: 382220
+2020-04-21/10:42:07		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/GlobalReport/report1ac8b122d5fb4c1b8567976f72fe1153.htmlAn email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:43:40		User Says: 382220
+2020-04-21/10:44:33		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/GlobalReport/report50813f103f1b4903ac9d3592faf8e3f0.html An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:56:44		User Says: 382220
+2020-04-21/10:57:04		Bot Says: An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/10:58:04		User Says: 382220
+2020-04-21/10:58:16		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/LocalReport/report06bb10bee1324af1bdfc72a0120467cf.jpg An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/12:24:44		User Says: 382220
+2020-04-21/12:25:38		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/GlobalReport/reportee8888e05f424be8a14d0dd5dad1eae9.html An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-21/12:27:30		User Says: 382220
+2020-04-21/12:28:17		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/GlobalReport/report1eb14a650b0242c9b2392d2d515a8ac9.html An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-22/23:08:39		User Says: 382220
+2020-04-22/23:09:43		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/LocalReport/report8300e80d0705419c879395c8e49a055a.jpg An email has been sent to your email id with the details. Do you have any further queries?
+2020-04-23/00:21:54		User Says: 382220
+2020-04-23/00:22:10		Bot Says: Please click the link https://covid19sid.s3.us-east-2.amazonaws.com/LocalReport/report59f952fac36047219cfd33d20d0adf17.jpg An email has been sent to your email id with the details. Do you have any further queries?

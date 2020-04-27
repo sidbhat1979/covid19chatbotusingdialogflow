@@ -1,0 +1,57 @@
+2020-04-17/16:38:26		User Says: 700031
+2020-04-17/16:42:24		User Says: 700031
+2020-04-17/16:45:04		User Says: 700031
+2020-04-17/16:45:11		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-17/16:56:42		User Says: 700031
+2020-04-17/16:56:48		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-17/16:58:55		User Says: 700031
+2020-04-17/16:59:01		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-17/17:04:14		User Says: 700031
+2020-04-17/17:04:20		Bot Says: Dear Sid,Please find the details of the cases in your locality. Total No Cases in Delhi: 1640 No of active cases : 1551 No of recovered cases : 51 No of deaths : 38An email has been sent to your email id. Do you need any further queries?
+2020-04-17/17:05:47		User Says: 700031
+2020-04-17/17:05:53		Bot Says: Dear Sid,Please find the details of the cases in your locality. 
+ Total No Cases in Delhi: 1640.  No of active cases : 1551 No of recovered cases : 51 No of deaths : 38 An email has been sent to your email id. Do you need any further queries?
+2020-04-17/17:06:40		User Says: 700031
+2020-04-17/17:06:47		Bot Says: Dear Sid,Please find the details of the cases in your locality. 
+ Total No Cases in Delhi: 1640.  No of active cases : 1551 No of recovered cases : 51 No of deaths : 38 An email has been sent to your email id. Do you need any further queries?
+2020-04-17/17:10:02		User Says: 700031
+2020-04-17/17:10:08		Bot Says: Dear Sid,Please find the details of the cases in Delhi. Total No Cases : 1640.  No of active cases : 1551.  No of recovered cases : 51.  No of deaths : 38.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/20:21:21		User Says: 700031
+2020-04-17/21:03:16		User Says: 700031
+2020-04-17/21:03:19		Bot Says: Dear Sid,Please find the details of the cases in Delhi. Total No Cases : 1640.  No of active cases : 1551.  No of recovered cases : 51.  No of deaths : 38.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:12:28		User Says: 700031
+2020-04-17/21:12:30		Bot Says: Dear Sid,Please find the details of the cases in Delhi. Total No Cases : 1640.  No of active cases : 1551.  No of recovered cases : 51.  No of deaths : 38.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:16:47		User Says: 700031
+2020-04-17/21:16:49		Bot Says: Dear Sid,Please find the details of the cases in Delhi. Total No Cases : 1640.  No of active cases : 1551.  No of recovered cases : 51.  No of deaths : 38.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:19:42		User Says: 700031
+2020-04-17/21:19:45		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:21:46		User Says: 700031
+2020-04-17/21:21:54		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:28:02		User Says: 700031
+2020-04-17/21:28:12		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:31:08		User Says: 700031
+2020-04-17/21:31:15		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:48:31		User Says: 700031
+2020-04-17/21:48:33		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:50:01		User Says: 700031
+2020-04-17/21:50:03		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:52:36		User Says: 700031
+2020-04-17/21:52:37		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:53:16		User Says: 700031
+2020-04-17/21:53:23		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:57:13		User Says: 700031
+2020-04-17/21:57:15		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/21:58:57		User Says: 700031
+2020-04-17/21:59:13		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/22:20:08		User Says: 700031
+2020-04-17/22:20:16		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/22:23:52		User Says: 700031
+2020-04-17/22:23:58		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/22:38:49		User Says: 700031
+2020-04-17/22:38:57		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/23:20:48		User Says: 700031
+2020-04-17/23:20:51		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/23:21:51		User Says: 700031
+2020-04-17/23:21:59		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?
+2020-04-17/23:23:28		User Says: 700031
+2020-04-17/23:23:35		Bot Says: Dear Sid,Please find the details of the cases in West Bengal. Total No Cases : 255.  No of active cases : 194.  No of recovered cases : 51.  No of deaths : 10.  An email has been sent to your email id. Do you need any further queries?

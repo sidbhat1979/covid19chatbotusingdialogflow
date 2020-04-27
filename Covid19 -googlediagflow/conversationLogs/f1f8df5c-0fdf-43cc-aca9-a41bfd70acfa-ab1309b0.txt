@@ -1,0 +1,16 @@
+2020-04-16/20:01:07		User Says: 1234567890
+2020-04-16/20:01:14		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:05:34		User Says: 1234567890
+2020-04-16/20:05:40		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:08:21		User Says: 1234567890
+2020-04-16/20:08:27		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:13:16		User Says: 1234567890
+2020-04-16/20:13:20		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:14:55		User Says: 1234567890
+2020-04-16/20:15:00		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:18:42		User Says: 1234567890
+2020-04-16/20:18:46		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/20:31:25		User Says: 1234567890
+2020-04-16/20:31:34		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-16/22:35:26		User Says: 1234567890
+2020-04-16/22:35:37		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
